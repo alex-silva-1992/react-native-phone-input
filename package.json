@@ -27,7 +27,7 @@
     "google-libphonenumber": "^3.2.3",
     "lodash": "^4.17.4",
     "deprecated-react-native-prop-types": "^3.0.1",
-    "@react-native-community/picker": "^1.8.1"
+    "@react-native-picker/picker": "2.4.2"
   },
   "peerDependencies": {
     "react-native": ">= 0.25"
